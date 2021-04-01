@@ -1,4 +1,4 @@
-#include "../../SFML_Universe/display/spectrum.h"
+#include "../../spectrum.h"
 
 /**
  Fast-Fourior-Transmition Algorithm 
