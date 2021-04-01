@@ -4,7 +4,7 @@
 #define PI 3.1415926535f
 #define BUFFER_SIZE 16384
 
-#include "../../SFML_Universe/drawable.h"
+#include <SFML\Graphics.hpp>
 #include <SFML/Audio.hpp>
 #include <complex>
 #include <iostream>
